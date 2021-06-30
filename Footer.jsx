@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <p>Copyright by ShapeAI @ {new Date().getFullYear()}</p>
+      <p>Copyright by Amit Dewangan @ {new Date().getFullYear()}</p>
     </footer>
   );
 }
